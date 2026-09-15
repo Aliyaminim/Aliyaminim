@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is Minimullina Aliya Eduardovna. I'm a 3rd year student of MIPT (Moscow Institute of Physics and Technology).
-
-My [CV](/CV_Aliya_Minimullina.pdf)
+My name is Minimullina Aliya Eduardovna. I'm a graduate of MIPT (Moscow Institute of Physics and Technology).
 
 <!--
 **Aliyaminim/Aliyaminim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
